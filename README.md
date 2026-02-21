@@ -1,4 +1,4 @@
-# Olá, meu nome Gabriel Flaulhabe 👋
+# Olá, meu nome é Gabriel Flaulhabe 👋
 
 Sou estudante do IFSULDEMINAS - Campus CDM, no ensino médio integrado ao técnico em Informática, e um desenvolvedor em formação, com forte interesse em programação, arquitetura de software, e com um sonho de fazer ciências da computação :)
 
