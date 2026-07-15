@@ -5,21 +5,31 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3200&pause=1500&color=d41212&center=true&vCenter=true&width=900&height=80&lines=%E1%9B%9E%E1%9B%81%E1%9B%97%E1%9B%81%E1%9A%BE%E1%9A%A2%E1%9A%A8%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9B%9F%E1%9A%BE%E1%9A%BA%E1%9B%9F...%3B...%E1%9B%9F%E1%9A%A2%E1%9B%AB%E1%9A%A8%E1%9A%A2%E1%9B%97%E1%9B%96%E1%9B%8F%E1%9B%96%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9A%A8%E1%9A%B2%E1%9A%B1%E1%9B%81%E1%9A%A0%E1%9B%81%E1%9A%B2%E1%9B%81%E1%9B%9F" alt="Typing SVG" />
 </div>
 
-## Olá, meu nome é Gabriel Flaulhabe 👋
+<h2 align="center">Olá, meu nome é Gabriel Flaulhabe 👋</h2>
 
-<img align="right" width="220" src="./assets/eu.png">
-
-</div>
-
+<table border="0">
+<tr>
+<td>
+  
 Sou estudante do IFSULDEMINAS — Campus Avançado Carmo de Minas, no Ensino Médio integrado ao Técnico em Informática, e um desenvolvedor em formação com interesse em programação, arquitetura de software e inteligência artificial.
 
-...
-
-Minha história com tecnologia começou pela curiosidade. Desde 2020 participo de olimpíadas científicas, principalmente nas áreas de astronomia, matemática, programação e robótica, experiências que me ensinaram a enfrentar problemas sem uma resposta pronta, testar ideias e aprender com os erros.
+Minha história com tecnologia começou pela curiosidade. Desde 2019 participo de olimpíadas científicas, principalmente nas áreas de astronomia, matemática, programação, robótica, e outras. Experiências que me ensinaram a enfrentar problemas sem uma resposta pronta, testar ideias e aprender com os erros.
 
 Com o tempo, esse interesse saiu dos desafios de competição e virou prática em projetos reais: aplicações com banco de dados, autenticação, IA generativa e desenvolvimento mobile. Gosto de entender não apenas como fazer um sistema funcionar, mas também como organizá-lo para que continue evoluindo.
 
 Atualmente, busco aprofundar meus conhecimentos em engenharia de software e inteligência artificial, com o objetivo de cursar Ciência da Computação na UNIFEI e continuar construindo projetos que resolvam problemas reais.
+
+</td>
+<td width="290">
+<img width="290" src="./assets/eu.png">
+
+<p align="center"><img src="https://cdn.simpleicons.org/spotify/1ED760" width="24" height="24" valign="middle"> $\textsf{\color{#d41212}{ouvindo agora:}}$</p>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yadj36rf4kwl7herxwdnnxcvj4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=e70d0d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yadj36rf4kwl7herxwdnnxcvj4&redirect=true)
+
+</td>
+</tr>
+</table>
 
 ## 🏛️ Behring Academy
 
@@ -38,20 +48,21 @@ Em 2025, fui um dos **42 estudantes selecionados entre 1.775 inscritos** de todo
 
 ## 🏆 Trajetória em Olimpíadas Científicas
 
-| Competição | Conquistas |
-|---|---|
-| 🌌 OBA — Olimpíada Brasileira de Astronomia | 🥇🥇🥇🥇🥇 |
-| 💻 OBI — Olimpíada Brasileira de Informática | 🥉🏅 |
-| ➗ OBMEP — Olimpíada Brasileira de Matemática | 🥇🥈🥉🏅🏅🏅 |
-| 🚀 MOBFOG — Mostra Brasileira de Foguetes | 🥇🥇🥉 |
-| 🤖 OBR — Olimpíada Brasileira de Robótica | 🥈🥉🏅🏅 |
-| 🔬 ONC — Olimpíada Nacional de Ciências | 🥈🥈🏅🏅 |
-| 🧠 OBICT — Iniciação Científica e Tecnologia | 🥈 |
-| 🧩 OLIP — Olimpíada Interna de Programação | 🥈 |
-| 🌊 O2 — Olimpíada Brasileira do Oceano | 🥇 |
-| 🔭 IPhCO — Olimpíada Internacional de Física e Cultura | 🥇 |
-| 💻 OBOI — Olimpíada Brasileira Online de Informática | 🥉 |
-| 📐 Outras olimpíadas | 🥇🥇🥈🥈🥈🥈🥉🥉🥉🥉 |
+| Competição                                                           | Conquistas           |
+| -------------------------------------------------------------------- | -------------------- |
+| 🌌 OBA — Olimpíada Brasileira de Astronomia e Astronáutica           | 🥇🥇🥈🥇🥇        |
+| 💻 OBI — Olimpíada Brasileira de Informática                         | 🏅🥉                |
+| ➗ OBMEP — Olimpíada Brasileira de Matemática das Escolas Públicas   | 🥇🥈🥉🏅🏅🏅      |
+| 🚀 MOBFOG — Mostra Brasileira de Foguetes                            | 🥇🥇🥉             |
+| 🤖 OBR — Olimpíada Brasileira de Robótica                            | 🥈🥉🏅🏅           |
+| 🔬 ONC — Olimpíada Nacional de Ciências                              | 🥈🥈🏅🏅           |
+| 🧬 ONANO — Olimpíada Nacional de Nanotecnologia                      | 🥈🥇                |
+| 🧠 OBICT — Olimpíada Brasileira de Iniciação Científica e Tecnologia | 🥈                  |
+| 🧩 OLIP — Olimpíada Interna de Programação                           | 🥈                  |
+| 🌊 O2 — Olimpíada Brasileira do Oceano                               | 🥇                  |
+| 🔭 IPhCO — Olimpíada Internacional de Física e Cultura               | 🥇                  |
+| 💻 OBOI — Olimpíada Brasileira Online de Informática                 | 🥉                   |
+| 📐 Outras olimpíadas                                                 | 🥇🥇🥈🥈🥈🥈🥉🥉🥉🥉 |
 
 <br/>
 
