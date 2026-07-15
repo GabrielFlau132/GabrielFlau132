@@ -7,32 +7,31 @@
 
 <br/>
 
-## Sobre
+## Olá, meu nome é Gabriel Flaulhabe 👋
 
-Sou **Gabriel Flaulhabe**, estudante do curso Técnico em Informática integrado ao Ensino Médio no **IFSULDEMINAS — Campus Avançado Carmo de Minas**, com interesse concentrado em engenharia de software, arquitetura de sistemas e aplicações com inteligência artificial.
+Sou estudante do IFSULDEMINAS — Campus Avançado Carmo de Minas, no Ensino Médio integrado ao Técnico em Informática, e um desenvolvedor em formação com interesse em programação, arquitetura de software e inteligência artificial.
 
-A curiosidade veio antes da programação. Competir em olimpíadas científicas — de astronomia a matemática, passando por robótica e ciências gerais — desde 2020 ensinou algo que nenhuma aula sozinha ensina: lidar com problemas sem gabarito pronto, quebrar um enunciado difícil em partes menores, e aceitar errar até acertar. Esse hábito de decompor um problema antes de atacá-lo é o que trouxe Gabriel até a programação, e é o que hoje orienta a forma como ele desenha sistemas.
+Minha história com tecnologia começou pela curiosidade. Desde 2020 participo de olimpíadas científicas, principalmente nas áreas de astronomia, matemática, programação e robótica, experiências que me ensinaram a enfrentar problemas sem uma resposta pronta, testar ideias e aprender com os erros.
 
-No IFSULDEMINAS, esse interesse técnico virou prática: primeiro em desafios de lógica das olimpíadas internas de programação da própria instituição, depois em projetos reais — com banco de dados, autenticação, integração com IA generativa e aplicações mobile publicadas para uso comercial. Cada projeto trouxe uma pergunta de arquitetura diferente: como separar o roteiro de um sistema do código que o processa, como impedir que um modelo de IA "alucine" dados clínicos, como estruturar um app para lidar com rotas e localização em tempo real. Hoje esse caminho aponta para um objetivo mais amplo — entender como sistemas são desenhados para crescer, lidar com dados reais e usuários reais, e não apenas funcionar como prova de conceito — com o objetivo de cursar Ciência da Computação.
+Com o tempo, esse interesse saiu dos desafios de competição e virou prática em projetos reais: aplicações com banco de dados, autenticação, IA generativa e desenvolvimento mobile. Gosto de entender não apenas como fazer um sistema funcionar, mas também como organizá-lo para que continue evoluindo.
 
+Atualmente, busco aprofundar meus conhecimentos em engenharia de software e inteligência artificial, com o objetivo de cursar Ciência da Computação na UNIFEI e continuar construindo projetos que resolvam problemas reais.
 <br/>
 
-## 🏛️ Jovem Talento Tech — Fundação Behring
 
-<div align="center">
-<table>
-<tr>
-<td align="center">🎯<br/><b>42</b><br/>selecionados</td>
-<td align="center">📩<br/><b>1.775</b><br/>inscrições recebidas</td>
-<td align="center">📅<br/><b>2025</b><br/>turma</td>
-<td align="center">📊<br/><b>~2%</b><br/>taxa de aprovação</td>
-</tr>
-</table>
+
+## 🏛️ Behring Academy
+
+<div>
+<img src="./assets/behring.png" width="180" align="right">
+
+Faço parte da **[Behring Academy](https://behring.academy/)**, uma jornada de formação em tecnologia da **Fundação Behring** voltada para jovens interessados em construir uma carreira na área.
+
+O programa me acompanha durante o Ensino Médio com uma formação complementar em **programação, matemática, inglês e desenvolvimento socioemocional**, além de mentorias, projetos práticos e uma comunidade de estudantes de diferentes regiões do Brasil.
+
+Em 2025, fui um dos **42 estudantes selecionados entre 1.775 inscritos** de todo o Brasil. Essa experiência tem sido uma oportunidade para evoluir tecnicamente, conhecer pessoas com interesses semelhantes e continuar construindo meu caminho na tecnologia.
+
 </div>
-
-O **Jovem Talento Tech (JTT)** é o programa de formação de talentos em tecnologia da **Fundação Behring**, organização filantrópica brasileira que atua desde 2020 no desenvolvimento de talentos em tecnologia e já apoiou mais de 100 estudantes em universidades como Harvard, MIT, Carnegie Mellon e PUC-Rio. Diferente de um curso pontual, o JTT acompanha os estudantes ao longo de todo o Ensino Médio, com trilhas de programação, matemática, inglês e desenvolvimento socioemocional, mentoria próxima de profissionais experientes, e uma imersão presencial de uma semana com todas as despesas custeadas pela Fundação.
-
-Em 2025, Gabriel foi um dos **42 estudantes selecionados entre 1.775 inscritos** de todo o Brasil — um processo seletivo de múltiplas etapas, com uma taxa de aprovação inferior a 2,5%.
 
 <br/>
 
