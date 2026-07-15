@@ -2,15 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:7f1d1d,100:d41212&height=200&section=header&text=Gabriel%20Flaulhabe&fontSize=42&fontColor=fee2e2&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Arquitetura%20de%20Sistemas%20%7C%20IA&descAlignY=55&descSize=18&descColor=fca5a5" />
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=1500&color=d41212&center=true&vCenter=true&width=900&height=80&lines=%E1%9B%9E%E1%9B%81%E1%9B%97%E1%9B%81%E1%9A%BE%E1%9A%A2%E1%9A%A8%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9B%9F%E1%9A%BE%E1%9A%BA%E1%9B%9F...%3B...%E1%9B%9F%E1%9A%A2%E1%9B%AB%E1%9A%A8%E1%9A%A2%E1%9B%97%E1%9B%96%E1%9B%8F%E1%9B%96%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9A%A8%E1%9A%B2%E1%9A%B1%E1%9B%81%E1%9A%A0%E1%9B%81%E1%9A%B2%E1%9B%81%E1%9B%9F" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-flaulhabe-599123293/)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1a1b26?style=for-the-badge&logo=readthedocs&logocolor=d41212)](https://lattes.cnpq.br/4655399147307588)
-[![Email](https://img.shields.io/badge/Email-d41212?style=for-the-badge&logo=gmail&logoColor=1a1b26)](mailto:gabrielflaulhabe.mg@gmail.com)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3200&pause=1500&color=d41212&center=true&vCenter=true&width=900&height=80&lines=%E1%9B%9E%E1%9B%81%E1%9B%97%E1%9B%81%E1%9A%BE%E1%9A%A2%E1%9A%A8%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9B%9F%E1%9A%BE%E1%9A%BA%E1%9B%9F...%3B...%E1%9B%9F%E1%9A%A2%E1%9B%AB%E1%9A%A8%E1%9A%A2%E1%9B%97%E1%9B%96%E1%9B%8F%E1%9B%96%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9A%A8%E1%9A%B2%E1%9A%B1%E1%9B%81%E1%9A%A0%E1%9B%81%E1%9A%B2%E1%9B%81%E1%9B%9F" alt="Typing SVG" />
 </div>
 
 <br/>
