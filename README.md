@@ -1,14 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Gabriel%20Flaulhabe&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Arquitetura%20de%20Sistemas%20%7C%20IA&descAlignY=55&descSize=18&descColor=a9b1d6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:7f1d1d,100:d41212&height=200&section=header&text=Gabriel%20Flaulhabe&fontSize=42&fontColor=fee2e2&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Arquitetura%20de%20Sistemas%20%7C%20IA&descAlignY=55&descSize=18&descColor=fca5a5" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Curiosidade+foi+o+ponto+de+partida.;Olimpiadas+ensinaram+a+resolver+sem+gabarito.;O+foco+hoje+e+construir+sistemas+que+duram." alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=1500&color=d41212&center=true&vCenter=true&width=900&height=80&lines=%E1%9B%9E%E1%9B%81%E1%9B%97%E1%9B%81%E1%9A%BE%E1%9A%A2%E1%9A%A8%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9B%9F%E1%9A%BE%E1%9A%BA%E1%9B%9F...%3B...%E1%9B%9F%E1%9A%A2%E1%9B%AB%E1%9A%A8%E1%9A%A2%E1%9B%97%E1%9B%96%E1%9B%8F%E1%9B%96%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9A%A8%E1%9A%B2%E1%9A%B1%E1%9B%81%E1%9A%A0%E1%9B%81%E1%9A%B2%E1%9B%81%E1%9B%9F" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-flaulhabe-599123293/)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1a1b26?style=for-the-badge&logo=readthedocs&logoColor=7aa2f7)](https://lattes.cnpq.br/4655399147307588)
-[![Email](https://img.shields.io/badge/Email-e0af68?style=for-the-badge&logo=gmail&logoColor=1a1b26)](mailto:gabrielflaulhabe.mg@gmail.com)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1a1b26?style=for-the-badge&logo=readthedocs&logocolor=d41212)](https://lattes.cnpq.br/4655399147307588)
+[![Email](https://img.shields.io/badge/Email-d41212?style=for-the-badge&logo=gmail&logoColor=1a1b26)](mailto:gabrielflaulhabe.mg@gmail.com)
 
 </div>
 
@@ -138,14 +139,14 @@ Aplicativo mobile publicado comercialmente, desenvolvido em equipe.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielFlau132&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFlau132&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielFlau132&show_icons=true&theme=transparent&title_color=d41212&icon_color=b91c1c&text_color=fee2e2&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFlau132&layout=compact&theme=transparent&title_color=d41212&icon_color=b91c1c&text_color=fee2e2&hide_border=true" width="34%" />
 
 <br/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFlau132&theme=tokyo-night&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFlau132&theme=github-compact&hide_border=true" width="90%" />
 
 <br/>
 
@@ -157,7 +158,7 @@ Aplicativo mobile publicado comercialmente, desenvolvido em equipe.
 
 <br/>
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=GabrielFlau132&color=7aa2f7&style=flat-square&label=Visualizações+do+perfil)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=GabrielFlau132&color=d41212&style=flat-square&label=Visualizações+do+perfil)
 
 </div>
 
@@ -177,9 +178,9 @@ Aplicativo mobile publicado comercialmente, desenvolvido em equipe.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-flaulhabe-599123293/)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1a1b26?style=for-the-badge&logo=readthedocs&logoColor=7aa2f7)](https://lattes.cnpq.br/4655399147307588)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1a1b26?style=for-the-badge&logo=readthedocs&logocolor=d41212)](https://lattes.cnpq.br/4655399147307588)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielflaulhabe.mg@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:7f1d1d,100:d41212&height=120&section=footer" />
 
 </div>
