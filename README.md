@@ -149,7 +149,7 @@ Aplicativo mobile publicado comercialmente, desenvolvido em equipe.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/GabrielFlau132/GabrielFlau132/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="h<img src="https://raw.githubusercontent.com/GabrielFlau132/GabrielFlau132/gh-pages/github-contribution-grid-snake.svg">" width="90%" />
 
 <br/>
 
