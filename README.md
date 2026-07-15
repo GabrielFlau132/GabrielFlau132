@@ -5,16 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3200&pause=1500&color=d41212&center=true&vCenter=true&width=900&height=80&lines=%E1%9B%9E%E1%9B%81%E1%9B%97%E1%9B%81%E1%9A%BE%E1%9A%A2%E1%9A%A8%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9B%9F%E1%9A%BE%E1%9A%BA%E1%9B%9F...%3B...%E1%9B%9F%E1%9A%A2%E1%9B%AB%E1%9A%A8%E1%9A%A2%E1%9B%97%E1%9B%96%E1%9B%8F%E1%9B%96%E1%9B%AB%E1%9B%9F%E1%9B%AB%E1%9B%8A%E1%9A%A8%E1%9A%B2%E1%9A%B1%E1%9B%81%E1%9A%A0%E1%9B%81%E1%9A%B2%E1%9B%81%E1%9B%9F" alt="Typing SVG" />
 </div>
 
-<br/>
-
-
-
-
-
-
-
-
-
 ## Olá, meu nome é Gabriel Flaulhabe 👋
 
 <img align="right" width="220" src="./assets/eu.png">
@@ -30,21 +20,6 @@ Minha história com tecnologia começou pela curiosidade. Desde 2020 participo d
 Com o tempo, esse interesse saiu dos desafios de competição e virou prática em projetos reais: aplicações com banco de dados, autenticação, IA generativa e desenvolvimento mobile. Gosto de entender não apenas como fazer um sistema funcionar, mas também como organizá-lo para que continue evoluindo.
 
 Atualmente, busco aprofundar meus conhecimentos em engenharia de software e inteligência artificial, com o objetivo de cursar Ciência da Computação na UNIFEI e continuar construindo projetos que resolvam problemas reais.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 🏛️ Behring Academy
 
@@ -156,14 +131,8 @@ Aplicativo mobile publicado comercialmente, desenvolvido em equipe.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielFlau132&show_icons=true&theme=transparent&title_color=d41212&icon_color=b91c1c&text_color=fee2e2&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFlau132&layout=compact&theme=transparent&title_color=d41212&icon_color=b91c1c&text_color=fee2e2&hide_border=true" width="34%" />
 
-<br/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFlau132&theme=github-compact&hide_border=true" width="90%" />
+<br/><img src="https://streak-stats.demolab.com?user=GabrielFlau132&theme=transparent&ring=d41212&fire=d41212&currStreakLabel=d41212&sideLabels=d41212&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
