@@ -7,16 +7,42 @@
 
 <br/>
 
+
+
+
+
+
+
+
+
 ## Olá, meu nome é Gabriel Flaulhabe 👋
 
+<img align="right" width="220" src="./assets/eu.png">
+
+</div>
+
 Sou estudante do IFSULDEMINAS — Campus Avançado Carmo de Minas, no Ensino Médio integrado ao Técnico em Informática, e um desenvolvedor em formação com interesse em programação, arquitetura de software e inteligência artificial.
+
+...
 
 Minha história com tecnologia começou pela curiosidade. Desde 2020 participo de olimpíadas científicas, principalmente nas áreas de astronomia, matemática, programação e robótica, experiências que me ensinaram a enfrentar problemas sem uma resposta pronta, testar ideias e aprender com os erros.
 
 Com o tempo, esse interesse saiu dos desafios de competição e virou prática em projetos reais: aplicações com banco de dados, autenticação, IA generativa e desenvolvimento mobile. Gosto de entender não apenas como fazer um sistema funcionar, mas também como organizá-lo para que continue evoluindo.
 
 Atualmente, busco aprofundar meus conhecimentos em engenharia de software e inteligência artificial, com o objetivo de cursar Ciência da Computação na UNIFEI e continuar construindo projetos que resolvam problemas reais.
-<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
