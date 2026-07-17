@@ -61,7 +61,7 @@ Em 2025, fui um dos **42 estudantes selecionados entre 1.775 inscritos** de todo
 | 🧩 OLIP — Olimpíada Interna de Programação                           | 🥈                  |
 | 🌊 O2 — Olimpíada Brasileira do Oceano                               | 🥇                  |
 | 🔭 IPhCO — Olimpíada Internacional de Física e Cultura               | 🥇                  |
-| 💻 OBOI — Olimpíada Brasileira Online de Informática                 | 🥉                   |
+| 💻 OBOI — Olimpíada Brasileira Online de Informática                 | 🥉                  |
 | 📐 Outras olimpíadas                                                 | 🥇🥇🥈🥈🥈🥈🥉🥉🥉🥉 |
 
 <br/>
@@ -75,7 +75,6 @@ Projeto full-stack desenvolvido para um hackathon do iFood, criando uma platafor
 - **Arquitetura:** API REST em **Flask** com autenticação **JWT**, organizada por módulos (`auth`, `menu_items`, `orders`, `analytics`) e documentação automática via **Spectree**. Frontend em HTML/CSS/JS com **Vue 3** e **Axios**.
 - **IA e dados:** notebooks em **Jupyter** exploram previsão de demanda e tempo de entrega usando dados históricos de pedidos.
 - **Desafio técnico:** unificar dados históricos via CSV e pedidos em tempo real no mesmo modelo (`TrainRecord`), permitindo que dashboards e filtros funcionem sem diferenciar a origem dos dados.
-
 `Flask` `Flask-SQLAlchemy` `JWT` `Spectree` `SQLite` `Vue 3` `Axios` `Jupyter`
 
 ---
