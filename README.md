@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:7f1d1d,100:d41212&height=200&section=header&text=Gabriel%20Flaulhabe&fontSize=42&fontColor=fee2e2&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Arquitetura%20de%20Sistemas%20%7C%20IA&descAlignY=55&descSize=18&descColor=fca5a5" />
@@ -142,7 +146,7 @@ Aplicativo mobile publicado comercialmente, desenvolvido em equipe.
 <div align="center">
 
 
-<br/><img src="https://streak-stats.demolab.com?user=GabrielFlau132&theme=transparent&ring=d41212&fire=d41212&currStreakLabel=d41212&sideLabels=d41212&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+<br/><img src="https://streak-stats.demolab.com?user=GabrielFlau132&theme=transparent&ring=d41213" />
 
 <br/>
 
