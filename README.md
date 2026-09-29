@@ -180,6 +180,7 @@ Aplicativo mobile publicado comercialmente, desenvolvido em equipe.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-flaulhabe-599123293/)
 [![Lattes](https://img.shields.io/badge/Currículo_Lattes-1a1b26?style=for-the-badge&logo=readthedocs&logocolor=d41212)](https://lattes.cnpq.br/4655399147307588)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielflaulhabe.mg@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553599320778)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:7f1d1d,100:d41212&height=120&section=footer" />
 
