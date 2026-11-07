@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:7f1d1d,100:d41212&height=200&section=header&text=Gabriel%20Flaulhabe&fontSize=42&fontColor=fee2e2&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncias%20da%20Computa%C3%A7%C3%A3o%20%7C%20Automa%C3%A7%C3%B5es%20com%20IA&descAlignY=55&descSize=18&descColor=fca5a5" />
